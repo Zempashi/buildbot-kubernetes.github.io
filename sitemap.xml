@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://buildbot-kubernetes.github.io/docs/</loc>
+    <lastmod>2018-10-28T09:06:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buildbot-kubernetes.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://buildbot-kubernetes.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://buildbot-kubernetes.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
