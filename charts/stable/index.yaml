@@ -3,6 +3,15 @@ entries:
   buildbot:
   - apiVersion: v1
     appVersion: 1.4.0
+    created: 2018-11-04T12:57:30.642711404Z
+    description: A Helm chart for buildbot
+    digest: caa21e8e211268b72ed461f8a532e56b05475baa777112f41c899eadcd623b0b
+    name: buildbot
+    urls:
+    - https://github.com/buildbot-kubernetes/buildbot-kubernetes/releases/download/v0.0.4/buildbot-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
+    appVersion: 1.4.0
     created: 2018-11-04T10:45:16.528691558Z
     description: A Helm chart for buildbot
     digest: a757fd031c6af3f8fcadff3056ba9f1ab217dcf223319b6879bfab8084e0b44d
@@ -28,4 +37,4 @@ entries:
     urls:
     - https://github.com/buildbot-kubernetes/buildbot-kubernetes/releases/download/v0.0.1/buildbot-0.0.1.tgz
     version: 0.0.1
-generated: 2018-11-04T10:45:16.525482576Z
+generated: 2018-11-04T12:57:30.641706079Z
